@@ -1,3 +1,4 @@
+motion_require '../table/cell/table_view_cell_module'
 module ProMotion
   class TableViewCell < UITableViewCell
     include TableViewCellModule

@@ -1,3 +1,4 @@
+motion_require '../extensions/conversions'
 module ProMotion
   module Styling
     include Conversions
